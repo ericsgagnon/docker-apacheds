@@ -1,6 +1,6 @@
 ###
 # Automated Build for dklein/apacheds Image
-# Version 1.0-SNAPSHOT
+# Version 1.0
 # (c) 2016 Dennis Klein
 #
 FROM dklein/java
